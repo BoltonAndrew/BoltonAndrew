@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working in Software Engineering Bootcamp Delivery and Design
+- 🔭 I’m currently working in the Aviation industry with AI
 - 🌱 I’m currently learning Game Development
 - 👯 I’m looking to collaborate on anything and everything
 - 💬 Ask me about anything
